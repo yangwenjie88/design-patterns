@@ -1,4 +1,4 @@
-###单例模式
+### 单例模式
 > 定义: Ensure a class only has one instance, and provide a global point of access to it.
          (确保某个类只有一个实例，而且自行实例化并向整个系统提供这个实例)
          
